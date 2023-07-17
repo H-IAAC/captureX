@@ -1,0 +1,12 @@
+[submodule "android_app"]
+	path = android_app
+	url = git@github.com:H-IAAC/sensor-toolkit.git
+[submodule "android_apk"]
+	path = android_apk
+	url = git@github.com:H-IAAC/collect_apk.git
+[submodule "post_processor"]
+	path = post_processor
+	url = git@github.com:H-IAAC/viewer_tool.git
+[submodule "jupyter_tool"]
+	path = jupyter_tool
+	url = git@github.com:H-IAAC/viewer_tool_jupyter.git
